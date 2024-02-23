@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My First College Application</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+</resources>
